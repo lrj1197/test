@@ -1,0 +1,5 @@
+su -i
+pip install threaded
+pip install PyInstaller
+apt update
+apt install openssh-server
